@@ -1,6 +1,6 @@
 {
-  "allowed": false,
-  "message": "현재사용이 종료되었습니다",
+  "allowed": true,
+  "message": "",
   "latest_version": "1.0.0",
   "download_url": "https://github.com/korea-master/omnidoc-release/releases/download/v1.0.0/OmniDocAI.exe",
   "sha256": "ecc6cd795bd9b75eb7a6add6e1e22bf4f7d59a5a251e347c3c5ecde10f413695"
